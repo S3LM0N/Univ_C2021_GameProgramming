@@ -1,4 +1,4 @@
-# DRONESIM - 2D
+# Univ_C2021_GameProgramming
  
 <img src="https://simpleicons.org/icons/drone.svg" width="300" height="300">
 
