@@ -1,6 +1,6 @@
 # Univ_C2021_GameProgramming
  
-<img src="https://simpleicons.org/icons/drone.svg" width="300" height="300">
+<img src="https://simpleicons.org/icons/unity.svg" width="300" height="300">
 
 2021년 계절(겨울)학기 게임융합프로그래밍에서 과제로 제출했던 코드입니다.
 
